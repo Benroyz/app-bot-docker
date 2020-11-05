@@ -4,6 +4,8 @@ Dockerfile used for the Discord bot that I run
 # NOTES
 Read this document before you do anything.
 
+Keep in mind that this is my first dockerfile, so if I made any mistakes, let me know, note it and tell me how I can avoid it. I went through this and learned new things. I still intend to learn more things with Docker.
+
 # How to use this Dockerfile
 First, clone this reposity: https://github.com/oadpoaw/app-bot.git
 
