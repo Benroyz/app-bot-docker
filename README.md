@@ -16,8 +16,8 @@ sudo docker build -f Dockerfile --tag <yourusername>/app-bot .
 And wait for the install. 
 
 Once you're done, run the docker with this command:
-```
-sudo docker run <yourusername>/app-bot --detach
+```bash
+sudo docker run --detach <yourusername>/app-bot
 ```
 
 You should be good to go!
