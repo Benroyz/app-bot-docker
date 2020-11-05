@@ -16,6 +16,6 @@ And wait for the install.
 Once you're done, run the docker:
 ```
 sudo docker run <yourusername>/app-bot --detach
-~``
+~```
 
 You should be good to go!
